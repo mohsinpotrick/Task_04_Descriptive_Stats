@@ -3,10 +3,10 @@
 A descriptive statistical analysis of social media activity related to the 2024 U.S. Presidential Election is presented in this project. Three sizable datasets that record Facebook ads, Facebook posts, and Twitter posts are the main focus of the investigation.
 
 The objective is to provide an overview of political communication's scale, structure, and behavioral tendencies by:
-1.  Summaries of statistics (mean, standard deviation, minimum)
-2.  Analysis of categorical frequency
-3.  grouped analysis of categorical variables
-4.  Simple visual aids for spotting patterns, skews, and outliers
+1. Summaries of statistics (mean, standard deviation, minimum)
+2. Analysis of categorical frequency
+3. grouped analysis of categorical variables
+4. Simple visual aids for spotting patterns, skews, and outliers
 
 Three tools are used for all work: Polars, Pandas, and Pure Python (no additional libraries).
 
