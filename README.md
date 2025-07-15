@@ -53,19 +53,19 @@ This repository contains visualization.py, README.md and .gitignore.
 Additionally, there are 3 folders containing 3 files each corresponding to the dataset and the ways they were implemented, the folder structure present in the repository is as follows:
 
 pure_python (folder)
-    1. pure_python_stats_fb_ads.py
-    2. pure_python_stats_fb_posts.py
-    3. pure_python_stats_tw_posts.py
+1. pure_python_stats_fb_ads.py
+2. pure_python_stats_fb_posts.py
+3. pure_python_stats_tw_posts.py
 
 pandas (folder)
-    1. pandas_stats_fb_ads.py
-    2. pandas_stats_fb_posts.py
-    3. pandas_stats_tw_posts.py
+1. pandas_stats_fb_ads.py
+2. pandas_stats_fb_posts.py
+3. pandas_stats_tw_posts.py
     
 polars (folder)
-    1. polars_stats_fb_ads.py
-    2. polars_stats_fb_posts.py
-    3. polars_stats_tw_posts.py
+1. polars_stats_fb_ads.py
+2. polars_stats_fb_posts.py
+3. polars_stats_tw_posts.py
 
 
 ### 1. pure_python
